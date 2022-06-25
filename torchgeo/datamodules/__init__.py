@@ -28,7 +28,7 @@ __all__ = (
     # GeoDataset
     "ChesapeakeCVPRDataModule",
     "NAIPChesapeakeDataModule",
-    # VisionDataset
+    # NonGeoDataset
     "BigEarthNetDataModule",
     "COWCCountingDataModule",
     "ETCI2021DataModule",
